@@ -10,7 +10,7 @@ import javafx.scene.control.Alert;
 
 /**
  *
- * @author Mary
+ * @author Mary   
  */
 public class Check {
     
