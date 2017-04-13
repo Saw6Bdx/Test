@@ -1,5 +1,7 @@
 package projetJava;
 
+// coucou c'est moi
+
 public class Category {
     public Category(String label){
         if(label == null){
